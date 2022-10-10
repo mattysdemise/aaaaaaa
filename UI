@@ -225,7 +225,7 @@ do -- Load items
     Main.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
     Main.BackgroundTransparency = 1.000
     Main.Position = UDim2.new(0.309293151, 0, 0.41276595, 0)
-    Main.Size = UDim2.new(0, 300, 0, 22)
+    Main.Size = UDim2.new(0, 111, 0, 22)
     Main.ZIndex = 4
     Main.Image = "rbxassetid://3570695787"
     Main.ImageColor3 = Color3.fromRGB(10, 10, 10)
